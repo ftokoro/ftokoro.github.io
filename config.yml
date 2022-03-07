@@ -1,7 +1,6 @@
 baseURL: https://ftokoro.github.io/myblog/
 languageCode: ja
 title: ftokoro's blog
-canonifyurls: true
 theme : "PaperMod"
 publishDir: "docs"
 
