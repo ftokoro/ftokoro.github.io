@@ -10,10 +10,21 @@ params:
 
     homeInfoParams:
         Title: Hello World!!
-        Content: Can be Info, links, about...
+        Content: Welcome to my blog! 
 
     socialIcons:
         - name: "Github"
           url: "https://github.com/ftokoro"
         - name: "twitter"
           url: "https://twitter.com/FumiyaSoft"
+
+    profileMode:
+        enabled: true
+        title: "About me"
+        subtitle: "This is subtitle"
+        imageUrl: "./profile.png"        
+        imageWidth: 120
+        imageHeight: 120
+
+
+
