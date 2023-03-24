@@ -34,6 +34,7 @@ sections:
   - block: collection
     id: post
     content:
+      page_type: post
       title: Post
       subtitle: ""
       text: Comming Soon...
@@ -45,7 +46,7 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       # Choose your content listing view - here we use the `showcase` view
-      view: showcase
+      view: card
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
   - block: collection
@@ -75,7 +76,7 @@ sections:
         - icon: twitter
           icon_pack: fab
           name: Twitter
-          link: 'https://twitter.com/Twitter'
+          link: 'https://twitter.com/FumiyaSoft'
 
       # Automatically link email and phone or display as text?
       autolink: true

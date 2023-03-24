@@ -5,10 +5,6 @@ title: Fumiya Tokoro
 first_name: Fumiya
 last_name: Tokoro
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
