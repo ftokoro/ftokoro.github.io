@@ -12,7 +12,7 @@ categories: []
 date: 2023-03-10T16:17:42+09:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.jsme.or.jp/conference/bioconf22/"
+external_link: "https://www.jsme.or.jp/event_project/award/young-fellow-award/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
